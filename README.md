@@ -2,7 +2,6 @@
 - [x] **DataCamp** Introduction SQL 
 - [x] **DataCamp** Exploratory Data Analysis in SQL 
 - [ ] **DataCamp** Data-Driven Decision Making in SQL
-- [ ] **DataCamp** Data-Driven Decision Making in SQL
 - [ ] **DataCamp** Analyzing Business Data in SQL
 - [ ] **DataCamp** Generating an executive report
 - [ ] **Projects** Analyze International Debt Statistics
